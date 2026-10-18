@@ -50,7 +50,6 @@ SIR-Model-COVID19/
 │   ├── infected_over_time.png
 │   ├── sir_dynamics_over_time.png
 │   └── transmission_rate_over_time.png
-├── LICENSE
 └── CITATION.cff
 ```
 
