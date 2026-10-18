@@ -43,9 +43,9 @@ SIR-Model-COVID19/
 │
 ├── README.md
 ├── paper/
-│   └── SIR_Model_COVID19.pdf
+│   └── SIR model - A Simple Framework to Study COVID-19 Spread.pdf
 ├── notebook/
-│   └── SIR_Model_Visualisation.ipynb
+│   └── SIR_COVID_visualisations.ipynb
 ├── figures/
 │   ├── infected_over_time.png
 │   ├── sir_dynamics_over_time.png
