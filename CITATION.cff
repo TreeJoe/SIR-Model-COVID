@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this project, please cite the original publication."
 type: software
-title: "COVID-19 Spread: The SIR Model"
+title: "SIR model - A Simple Framework to Study COVID-19 Spread (3)"
 authors:
   - family-names: Bandyopadhyay
     given-names: Srinjini
